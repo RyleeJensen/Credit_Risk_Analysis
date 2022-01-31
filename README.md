@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview
-The purpose of this project was to analyze credit card risk. This particular issue is an inherently unbalanced classification probelm as good loans easily outnumber risky loans. We will use a handful of different machine learning models to see which one is best a prediction credit risk. These include:
+The purpose of this project was to analyze credit card risk. This particular issue is an inherently unbalanced classification problem as good loans easily outnumber risky loans. We will use a handful of different machine learning models to see which one is best a prediction credit risk. These include:
   - Oversampling the data using the RandomOverSampler and SMOTE algorithms
   - Undersampling the data using the ClusterCentroids algorithm
   - Use a combination approach of over and undersampling the data with the SMOTEENN algorithm
